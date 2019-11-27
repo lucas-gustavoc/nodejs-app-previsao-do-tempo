@@ -1,7 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
-
-
 // Obtendo o formulário utilizando seletor CSS
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
